@@ -1,0 +1,6 @@
+C:\Users\Icaro\Desktop\2149\2149\bin\Debug\2149.exe.config
+C:\Users\Icaro\Desktop\2149\2149\bin\Debug\2149.exe
+C:\Users\Icaro\Desktop\2149\2149\bin\Debug\2149.pdb
+C:\Users\Icaro\Desktop\2149\2149\obj\Debug\2149.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\2149\2149\obj\Debug\2149.exe
+C:\Users\Icaro\Desktop\2149\2149\obj\Debug\2149.pdb
