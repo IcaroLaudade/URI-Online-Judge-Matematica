@@ -1,0 +1,6 @@
+C:\Users\Icaro\Desktop\1240\1240\bin\Debug\1240.exe.config
+C:\Users\Icaro\Desktop\1240\1240\bin\Debug\1240.exe
+C:\Users\Icaro\Desktop\1240\1240\bin\Debug\1240.pdb
+C:\Users\Icaro\Desktop\1240\1240\obj\Debug\1240.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\1240\1240\obj\Debug\1240.exe
+C:\Users\Icaro\Desktop\1240\1240\obj\Debug\1240.pdb
